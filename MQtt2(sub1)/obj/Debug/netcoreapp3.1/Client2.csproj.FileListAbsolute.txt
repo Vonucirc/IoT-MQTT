@@ -1,0 +1,15 @@
+C:\Users\slava\source\repos\MQtt1\MQtt2(sub1)\bin\Debug\netcoreapp3.1\Client2.exe
+C:\Users\slava\source\repos\MQtt1\MQtt2(sub1)\bin\Debug\netcoreapp3.1\Client2.deps.json
+C:\Users\slava\source\repos\MQtt1\MQtt2(sub1)\bin\Debug\netcoreapp3.1\Client2.runtimeconfig.json
+C:\Users\slava\source\repos\MQtt1\MQtt2(sub1)\bin\Debug\netcoreapp3.1\Client2.runtimeconfig.dev.json
+C:\Users\slava\source\repos\MQtt1\MQtt2(sub1)\bin\Debug\netcoreapp3.1\Client2.dll
+C:\Users\slava\source\repos\MQtt1\MQtt2(sub1)\bin\Debug\netcoreapp3.1\Client2.pdb
+C:\Users\slava\source\repos\MQtt1\MQtt2(sub1)\bin\Debug\netcoreapp3.1\MQTTnet.dll
+C:\Users\slava\source\repos\MQtt1\MQtt2(sub1)\obj\Debug\netcoreapp3.1\Client2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slava\source\repos\MQtt1\MQtt2(sub1)\obj\Debug\netcoreapp3.1\Client2.AssemblyInfoInputs.cache
+C:\Users\slava\source\repos\MQtt1\MQtt2(sub1)\obj\Debug\netcoreapp3.1\Client2.AssemblyInfo.cs
+C:\Users\slava\source\repos\MQtt1\MQtt2(sub1)\obj\Debug\netcoreapp3.1\Client2.csproj.CoreCompileInputs.cache
+C:\Users\slava\source\repos\MQtt1\MQtt2(sub1)\obj\Debug\netcoreapp3.1\Client2.dll
+C:\Users\slava\source\repos\MQtt1\MQtt2(sub1)\obj\Debug\netcoreapp3.1\Client2.pdb
+C:\Users\slava\source\repos\MQtt1\MQtt2(sub1)\obj\Debug\netcoreapp3.1\Client2.genruntimeconfig.cache
+C:\Users\slava\source\repos\MQtt1\MQtt2(sub1)\obj\Debug\netcoreapp3.1\Client2.csproj.AssemblyReference.cache
