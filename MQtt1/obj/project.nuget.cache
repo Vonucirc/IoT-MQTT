@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "39GcPtwhhwmLlETr7QpfNTYgwdmqi5fVK9dm2Scnqiy0QMNX3f1z1GHeh9jsA+geTH1fxinsf9eL94Mw+WaFNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\slava\\source\\repos\\MQtt1\\MQtt1\\Client1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\slava\\.nuget\\packages\\mqttnet\\4.0.1.184\\mqttnet.4.0.1.184.nupkg.sha512"
+  ],
+  "logs": []
+}

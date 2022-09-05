@@ -1,0 +1,15 @@
+C:\Users\slava\source\repos\MQtt1\MQtt1\obj\Debug\netcoreapp3.1\MQtt1.csproj.AssemblyReference.cache
+C:\Users\slava\source\repos\MQtt1\MQtt1\obj\Debug\netcoreapp3.1\MQtt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slava\source\repos\MQtt1\MQtt1\obj\Debug\netcoreapp3.1\MQtt1.AssemblyInfoInputs.cache
+C:\Users\slava\source\repos\MQtt1\MQtt1\obj\Debug\netcoreapp3.1\MQtt1.AssemblyInfo.cs
+C:\Users\slava\source\repos\MQtt1\MQtt1\obj\Debug\netcoreapp3.1\MQtt1.csproj.CoreCompileInputs.cache
+C:\Users\slava\source\repos\MQtt1\MQtt1\bin\Debug\netcoreapp3.1\MQtt1.exe
+C:\Users\slava\source\repos\MQtt1\MQtt1\bin\Debug\netcoreapp3.1\MQtt1.deps.json
+C:\Users\slava\source\repos\MQtt1\MQtt1\bin\Debug\netcoreapp3.1\MQtt1.runtimeconfig.json
+C:\Users\slava\source\repos\MQtt1\MQtt1\bin\Debug\netcoreapp3.1\MQtt1.runtimeconfig.dev.json
+C:\Users\slava\source\repos\MQtt1\MQtt1\bin\Debug\netcoreapp3.1\MQtt1.dll
+C:\Users\slava\source\repos\MQtt1\MQtt1\bin\Debug\netcoreapp3.1\MQtt1.pdb
+C:\Users\slava\source\repos\MQtt1\MQtt1\bin\Debug\netcoreapp3.1\MQTTnet.dll
+C:\Users\slava\source\repos\MQtt1\MQtt1\obj\Debug\netcoreapp3.1\MQtt1.dll
+C:\Users\slava\source\repos\MQtt1\MQtt1\obj\Debug\netcoreapp3.1\MQtt1.pdb
+C:\Users\slava\source\repos\MQtt1\MQtt1\obj\Debug\netcoreapp3.1\MQtt1.genruntimeconfig.cache
